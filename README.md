@@ -9,3 +9,8 @@ Just follow these steps:
 - run command php artisan migrate
 - run command php artisan serve and create some users
 - open http://127.0.0.1:8000/chat page and start chat with other users
+
+# System Requirements
+- Above 5.0
+
+![alt text](https://i.imgur.com/xx9yJOd.png)
