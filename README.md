@@ -8,4 +8,4 @@ Just follow these steps:
 - database connectivity from .env
 - run command php artisan migrate
 - run command php artisan serve and create some users
-- open http://127.0.0.1:8000/chat pageand you will chat with other users
+- open http://127.0.0.1:8000/chat page and start chat with other users
